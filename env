@@ -1,0 +1,8 @@
+weight_root=/content/drive/MyDrive/332_5-2_HD/models/lumine
+weight_uvr5_root=/content/drive/MyDrive/332_5-2_HD/models/lumine
+index_root=/content/drive/MyDrive/332_5-2_HD/models/lumine
+rmvpe_root=/content/drive/MyDrive/332_5-2_HD/models/_utils
+hubert_path=/content/drive/MyDrive/332_5-2_HD/models/_utils/hubert_base.pt
+save_uvr_path=/content/drive/MyDrive/332_5-2_HD/fake/
+TEMP=/content/drive/MyDrive/332_5-2_HD/tmp
+pretrained=/content/drive/MyDrive/332_5-2_HD/models/lumine/lumine.pth
